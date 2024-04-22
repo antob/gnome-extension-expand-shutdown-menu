@@ -1,0 +1,9 @@
+{
+  "name": "Expand Shutdown Menu",
+  "description": "Expands the shutdown menu",
+  "uuid": "expand-shutdown-menu@antob.se",
+  "shell-version": [
+    "45"
+  ],
+  "settings-schema": "org.gnome.shell.extensions.expand-shutdown-menu"
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+    <schema id="org.gnome.shell.extensions.expand-shutdown-menu" path="/org/gnome/shell/extensions/expand-shutdown-menu/">
+        <key type="as" name="esm-hotkey">
+            <default><![CDATA[['<Super>x']]]></default>
+            <summary>Shortcut to expand shutdown menu.</summary>
+        </key>
+    </schema>
+</schemalist>
